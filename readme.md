@@ -1,6 +1,6 @@
-# App Agendamento de Barbearia - Decola Tech 2025
+# App Agendamento de Barbearia.
 
-Este é um projeto de um APP Full Stack realizado para o Bootcamp Decola Tech 2025 da Avanade, desenvolvido em Angular e Java.
+Este é um projeto de um APP Full Stack, desenvolvido em Angular e Java.
 
 ## Instalação
 Como pré-requisito, você precisa ter:
